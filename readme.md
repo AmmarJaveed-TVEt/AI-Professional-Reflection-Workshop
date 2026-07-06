@@ -166,7 +166,7 @@ In the next section we will watch a short video introducing effective AI prompti
 
 **Video Placeholder**
 
-(Add YouTube link here later.)
+(https://youtu.be/P08jrZhyNxw?si=ybwOPILWSI2mmlvV)
 
 ---
 # Activity 2 – Improve the Prompt
@@ -217,7 +217,7 @@ Watch the following short video about writing better AI prompts.
 
 **Video Placeholder**
 
-(Add YouTube link here later.)
+https://youtu.be/Q9THfpxNH94?si=nZc3mPlZ6vxsYJsX
 
 ---
 
@@ -451,11 +451,11 @@ OpenAI Learning Resources
 
 ### Video 1
 
-(Add YouTube reference here.)
+https://youtu.be/P08jrZhyNxw?si=ybwOPILWSI2mmlvV)
 
 ### Video 2
 
-(Add YouTube reference here.)
+https://youtu.be/Q9THfpxNH94?si=nZc3mPlZ6vxsYJsX
 
 ---
 
