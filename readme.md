@@ -38,17 +38,16 @@ This workshop helps participants learn how to use AI responsibly as a profession
 
 ## UNESCO AI Competency Framework
 
+## UNESCO AI Competency Framework Alignment
 
-| Element | Detail |
-|---------|--------|
-| Framework | UNESCO AI Competency Framework for Teachers (2024) |
-| Dimension | 5 — AI for Professional Development |
-| Competency | 5.3 – AI to Support Professional Development |
-| Curricular Goal | CGS-3.2 |
-| Learning Objective | LO5-3.2 |
-| Progression Level | Apply |
+| **Element** | **Detail** |
+|--------------|------------|
+| **Framework** | UNESCO AI Competency Framework for Teachers (2024) |
+| **Dimension** | 5 — AI for Professional Development |
+| **Learning Objective** | **LO5-3.2:** Blend AI tools and human coaching to facilitate well-informed self-reflection, goal setting, and continuous professional development. |
+| **Progression Level** | Apply |
 
-This workshop is aligned with **Learning Objective LO5-3.2**, which focuses on combining AI tools with human coaching to support reflective practice, goal setting, and continuous professional development.
+This workshop is aligned with **Learning Objective LO5-3.2** of the UNESCO AI Competency Framework. Throughout the workshop, participants learn how to design effective AI prompts, evaluate AI-generated feedback, and use AI responsibly to support their own professional reflection and continuous professional development.
 
 This workshop is designed around **one learning objective** from the UNESCO AI Competency Framework for Teachers.
 
