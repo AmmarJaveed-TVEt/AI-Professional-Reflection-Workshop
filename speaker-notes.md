@@ -1,7 +1,7 @@
 # Speaker Notes
 ## AI as Your Professional Reflection Coach
 
-**Presenter:** Muhammad Muneeb Butt
+**Presenter:** Ammar Javeed
 
 **Duration:** Approximately 30 Minutes
 
