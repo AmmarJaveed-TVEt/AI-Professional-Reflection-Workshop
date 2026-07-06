@@ -457,9 +457,8 @@ UNESCO. (2024). *AI Competency Framework for Teachers.*
 
 ### Prompt Engineering
 
-OpenAI Learning Resources
-
-(Add official reference later.)
+OpenAI. Prompt Engineering Guide.
+https://platform.openai.com/docs/guides/prompt-engineering
 
 ### Video 1
 
